@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: mailforward53.cloudns.net
+mx: mailforward54.cloudns.net
+max_age: 1209600
